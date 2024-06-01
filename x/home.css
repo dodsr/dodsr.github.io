@@ -1,0 +1,708 @@
+.dod {
+	position: fixed;
+	width: 400px;
+	height: 120px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+}
+
+.block {
+	position: fixed;
+	top: 0px;
+	width: 17.3px;
+	height: 1px;
+	background-color: #545454;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 30px;
+}
+
+
+.dodsr_logo {
+	cursor:default;
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	z-index: 96;
+}
+
+.dodsr_logo1 {
+	cursor:default;
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	z-index: 97;
+}
+
+.dodsr_logo1 img:hover {
+    opacity: 0;
+
+}
+
+.dodsr_logo0 {
+	cursor:default;
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	z-index: 95;
+}
+
+.dodsr_logo0 img:hover {
+    opacity: 0;
+
+} 
+
+
+.H1 {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 18px;
+	color: #333333;
+	line-height: 26px;
+	letter-spacing: 0ex;
+	text-align: left;
+	font-weight: normal;
+	font-variant: normal;
+	transform: rotate(90deg);
+	position: fixed;
+	margin-top: 60px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	cursor:none;
+	opacity:0.33;
+	z-index: 98;
+}
+
+.H1:hover {
+	color: #ffffff;
+	text-shadow:0 0 13px #aaaaaa;
+	
+}
+
+.H2 {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 18px;
+	color: #545454;
+	line-height: 22px;
+	letter-spacing: -0.07ex;
+	text-align: left;
+	font-weight: normal;
+	font-variant: normal;
+	opacity: 1;
+	transform: rotate(90deg);
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 890px;
+	
+}
+
+
+
+/*  color lines ------------------------------------------------------------ */ 
+
+span.dodsr_line {
+    display:inline-block;
+	position:absolute;
+	line-height: 0px;
+	
+}
+
+span.line1 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    top:50%;
+    width:120%;
+    border-top:3px solid #545454;
+    -webkit-transition: width 0.25s ease-in;
+}
+span.line1:hover {
+    border-top:3px solid #1cb411;
+    width:0;
+}
+
+span.line11 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    bottom:50%;
+    width:100%;
+    border-top:0px solid #545454;
+    -webkit-transition: width 0.22s ease-in;
+}
+span.line11:hover {
+    border-bottom:2px solid #16cdff;
+    width:0;
+}
+
+span.line2 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    top:50%;
+    width:100%;
+    border-top:3px solid #545454;
+    -webkit-transition: width 0.3s ease-in;
+}
+span.line2:hover {
+    border-top:3px solid #4575ff;
+	z-index:3;
+    width:0;
+}
+
+span.line22 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    bottom:50%;
+    width:110%;
+    border-top:0px solid #545454;
+    -webkit-transition: width 0.3s ease-in;
+}
+span.line22:hover {
+    border-bottom:2px solid #5216ff;
+    width:0;
+}
+
+span.line3 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    top:50%;
+    width:115%;
+    border-top:3px solid #545454;
+    -webkit-transition: width 0.25s ease-in;
+}
+span.line3:hover {
+    border-top:3px solid #3E7DF2;
+	z-index:3;
+    width:0; 
+}
+
+span.line33 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    bottom:50%;
+    width:105%;
+    border-top:0px solid #545454;
+    -webkit-transition: width 0.3s ease-in;
+}
+span.line33:hover {
+    border-bottom:2px solid #00CAF7;
+    width:0;
+}
+
+/*  color lines bottom ------------------------------------------------------------ */ 
+
+.H4 {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 13px;
+	color: #333333;
+	line-height: 18px;
+	letter-spacing: -0.08ex;
+	text-align: left;
+	font-weight: normal;
+	font-variant: normal;
+	opacity: 1;
+	transform: rotate(90deg);
+	position: fixed;
+	margin-top: 450px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 310px;
+	cursor: default;
+	
+}
+
+span.dodsr_line33 {
+    display:inline-block;
+	position:absolute;
+	line-height: 0px;
+	font-size: 15px;
+	color: #555555;
+	font-weight: bold;
+	cursor: default;
+	
+}
+
+span.dodsr_line33:hover {
+	color: #555555;
+	text-shadow:0 0 13px #3D3D3D;
+}
+
+span.line01 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    top:50%;
+    width:100%;
+    border-top:2px solid #333333;
+    -webkit-transition: width 0.2s ease-in;
+}
+span.line01:hover {
+    border-top:2px solid #061dfe;
+    width:0;
+}
+
+span.line011 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    bottom:50%;
+    width:70%;
+    border-top:0px solid #333333;
+    -webkit-transition: width 0.25s ease-in;
+}
+span.line011:hover {
+    border-bottom:2px solid #113E87;
+    width:0;
+}
+
+span.line02 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    top:50%;
+    width:100%;
+    border-top:2px solid #333333;
+    -webkit-transition: width 0.25s ease-in;
+}
+span.line02:hover {
+    border-top:2px solid #0d870f;
+	z-index:3;
+    width:0;
+}
+
+span.line022 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    bottom:50%;
+    width:70%;
+    border-top:0px solid #333333;
+    -webkit-transition: width 0.2s ease-in;
+}
+span.line022:hover {
+    border-bottom:2px solid #195E4E;
+    width:0;
+}
+
+span.line03 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    top:50%;
+    width:100%;
+    border-top:2px solid #333333;
+    -webkit-transition: width 0.25s ease-in;
+}
+span.line03:hover {
+    border-top:2px solid #661515;
+	z-index:3;
+    width:0;	
+}
+
+span.line033 {
+	display:inline-block;
+    position:relative;
+    left:0;
+    bottom:50%;
+    width:100%;
+    border-top:0px solid #333333;
+    -webkit-transition: width 0.25s ease-in;
+}
+span.line033:hover {
+    border-bottom:2px solid #473D1B;
+    width:0;
+}
+
+.H4 a:link {
+	text-decoration: none;
+	color: #333333;
+	
+}
+.H4 a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+.H4 span:hover :not(.dodsr_line33){
+	text-decoration: none;
+	color: #212121;
+	cursor: default;
+	text-shadow:0 0 13px #1e1e1e;
+}
+.H4 a:active {
+	color: #262626;
+	text-decoration: none;
+}
+
+/*-------*/
+
+a:link {
+	text-decoration: none;
+	color: #545454;
+}
+a:visited {
+	text-decoration: none;
+	color: #545454;
+}
+a:hover {
+	text-decoration: none;
+	color: #AAAAAA;
+	text-shadow:0 0 13px #444444;
+}
+a:active {
+	color: #545454;
+	text-decoration: none;
+}
+
+/*-------*/
+
+.Int1 {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 33px;
+	color: #dcdcdc;
+	line-height: 20px;
+	letter-spacing: -0.05ex;
+	font-weight: bold;
+	font-variant: normal;
+	transform: rotate(90deg);
+	position: fixed;
+	margin-top: -23px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 100px;
+}
+
+/*  logo lines ------------------------------------------------------------  */ 
+
+span.dodsr_linein {
+    display:inline-block;
+	position:absolute;
+	cursor:default;
+	line-height: 0px;
+}
+
+span.linein {
+display:inline-block;
+    position:relative;
+    left:0;
+    top:50%;
+    width:0;
+    border-top:30px solid #dcdcdc;
+    -webkit-transition: width 0.15s ease-in;
+}
+span.linein:hover {
+    width:120%; 
+}
+
+.H3 {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 13px;
+	color: #545454;
+	line-height: 20px;
+	letter-spacing: 0.5ex;
+	text-align: left;
+	font-weight: normal;
+	font-variant: normal;
+	opacity: 1;
+	position: fixed;
+	margin-top: 22px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 950px;
+	cursor:default;
+	
+}
+
+.H3:hover {
+	color: #333333;
+	text-shadow:0 0 13px #333333;
+}
+
+.Int2 {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 14px;
+	color: #545454;
+	line-height: 20px;
+	letter-spacing: 0ex;
+	font-weight: normal;
+	font-variant: normal;
+	font-variant-ligatures: none;
+}
+
+.dodsr_shape {
+	position: fixed;
+	margin-top: 300px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 50px;
+	cursor:none;
+}
+
+.dodsr_shape1 {
+	cursor:default;
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	z-index: 87;
+	cursor:none;
+}
+
+.dodsr_shape1 img:hover {
+    opacity: 0;
+	cursor:none;
+
+}
+
+.dodsr_shape0 {
+	cursor:default;
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	z-index: 85;
+	cursor:none;
+}
+
+.dodsr_shape0 img:hover {
+    opacity: 0;
+	cursor:none;
+
+} 
+
+.dodsr_vid {
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 250px;
+	z-index: 99;
+}
+
+.dodsr_vidgif {
+	position: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	z-index: 100;
+}
+
+.dodsr_vidgif img:hover {
+    opacity: 0;
+	z-index: 3;
+
+} 
+
+
+/*  data lines ------------------------------------------------------------  */
+
+
+.Data1 {
+	font-family: Andale Mono, monospace;
+	font-size: 6px;
+	color: #666666;
+	line-height: 8px;
+	letter-spacing: 0.5ex;
+	font-weight: bold;
+	font-variant: normal;
+	transform: rotate(90deg);
+	position: fixed;
+	margin-top: 380px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 27px;
+	cursor:none;
+}
+
+.Data1:hover {
+	color: #777777;
+	text-shadow:0 0 7px #555555;
+}
+
+/* glitch lines -------------------------------------------*/
+
+
+.glitch {
+	color: white;
+	font-size: 55px;
+	position: relative;
+	line-height: 100px;
+	letter-spacing: 44px;
+	height: 75px;
+	width: 200px;
+	margin: 0 auto;
+}
+
+@keyframes noise-anim {
+  0% {
+    clip: rect(32px, 9999px, 33px, 0);
+  }
+  5% {
+    clip: rect(81px, 9999px, 68px, 0);
+  }
+  10% {
+    clip: rect(80px, 9999px, 92px, 0);
+  }
+  15.0% {
+    clip: rect(25px, 9999px, 57px, 0);
+  }
+  20% {
+    clip: rect(96px, 9999px, 97px, 0);
+  }
+  25% {
+    clip: rect(41px, 9999px, 52px, 0);
+  }
+  30.0% {
+    clip: rect(17px, 9999px, 46px, 0);
+  }
+  35% {
+    clip: rect(73px, 9999px, 68px, 0);
+  }
+  40% {
+    clip: rect(91px, 9999px, 100px, 0);
+  }
+  45% {
+    clip: rect(9px, 9999px, 61px, 0);
+  }
+  50% {
+    clip: rect(45px, 9999px, 97px, 0);
+  }
+  55.0% {
+    clip: rect(91px, 9999px, 4px, 0);
+  }
+  60.0% {
+    clip: rect(98px, 9999px, 29px, 0);
+  }
+  65% {
+    clip: rect(36px, 9999px, 70px, 0);
+  }
+  70% {
+    clip: rect(13px, 9999px, 59px, 0);
+  }
+  75% {
+    clip: rect(10px, 9999px, 16px, 0);
+  }
+  80% {
+    clip: rect(37px, 9999px, 57px, 0);
+  }
+  85.0% {
+    clip: rect(73px, 9999px, 69px, 0);
+  }
+  90% {
+    clip: rect(13px, 9999px, 19px, 0);
+  }
+  95% {
+    clip: rect(4px, 9999px, 55px, 0);
+  }
+  100% {
+    clip: rect(6px, 9999px, 67px, 0);
+  }
+}
+
+@keyframes noise-anim-2 {
+  0% {
+    clip: rect(91px, 9999px, 12px, 0);
+  }
+  5% {
+    clip: rect(38px, 9999px, 4px, 0);
+  }
+  10% {
+    clip: rect(34px, 9999px, 19px, 0);
+  }
+  15.0% {
+    clip: rect(20px, 9999px, 43px, 0);
+  }
+  20% {
+    clip: rect(78px, 9999px, 90px, 0);
+  }
+  25% {
+    clip: rect(19px, 9999px, 59px, 0);
+  }
+  30.0% {
+    clip: rect(27px, 9999px, 77px, 0);
+  }
+  35% {
+    clip: rect(12px, 9999px, 36px, 0);
+  }
+  40% {
+    clip: rect(6px, 9999px, 41px, 0);
+  }
+  45% {
+    clip: rect(13px, 9999px, 11px, 0);
+  }
+  50% {
+    clip: rect(27px, 9999px, 16px, 0);
+  }
+  55.0% {
+    clip: rect(88px, 9999px, 28px, 0);
+  }
+  60.0% {
+    clip: rect(4px, 9999px, 74px, 0);
+  }
+  65% {
+    clip: rect(24px, 9999px, 86px, 0);
+  }
+  70% {
+    clip: rect(12px, 9999px, 79px, 0);
+  }
+  75% {
+    clip: rect(13px, 9999px, 70px, 0);
+  }
+  80% {
+    clip: rect(88px, 9999px, 23px, 0);
+  }
+  85.0% {
+    clip: rect(80px, 9999px, 7px, 0);
+  }
+  90% {
+    clip: rect(50px, 9999px, 10px, 0);
+  }
+  95% {
+    clip: rect(94px, 9999px, 82px, 0);
+  }
+  100% {
+    clip: rect(6px, 9999px, 74px, 0);
+  }
+}
+.glitch:after {
+  content: attr(data-text);
+  position: absolute;
+  left: 1px;
+  text-shadow: -1px 0 red;
+  top: 0;
+  color: white;
+  background: none;
+  overflow: hidden;
+  clip: rect(0, 900px, 0, 0);
+  animation: noise-anim 13s infinite linear alternate-reverse;
+}
+
+.glitch:before {
+  content: attr(data-text);
+  position: absolute;
+  left: -1px;
+  text-shadow: 1px 0 blue;
+  top: 0;
+  color: white;
+  background: none;
+  overflow: hidden;
+  clip: rect(0, 900px, 0, 0);
+  animation: noise-anim-2 3s infinite linear alternate-reverse;
+}
